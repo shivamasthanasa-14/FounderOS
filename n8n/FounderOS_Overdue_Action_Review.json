@@ -1,0 +1,8 @@
+{
+  "name": "FounderOS — Overdue Action Review",
+  "nodes": [
+    {"parameters":{},"id":"manual","name":"Manual review trigger","type":"n8n-nodes-base.manualTrigger","typeVersion":1,"position":[240,300],"notes":"For local testing; replace/add a Schedule Trigger for recurring reviews."},
+    {"parameters":{"jsCode":"const x=$json; if (!x.reference_date || !x.idempotency_key) throw new Error('Missing review period or idempotency key'); return [{json:{...x, type:'founderos_overdue_digest'}}];"},"id":"prepare","name":"Prepare owner digest","type":"n8n-nodes-base.code","typeVersion":2,"position":[480,300],"notes":"FounderOS groups overdue actions by owner and sends the structured digest."},
+    {"parameters":{"method":"POST","url":"={{$env.FOUNDEROS_NOTIFICATION_RECEIVER_URL}}","sendBody":true,"specifyBody":"json","jsonBody":"={{JSON.stringify($json)}}","options":{"retry":{"maxTries":3,"waitBetweenTries":1000}}},"id":"notify","name":"Dispatch overdue digest","type":"n8n-nodes-base.httpRequest","typeVersion":4,"position":[720,300],"notes":"No completed/rejected action should be present in the payload."}
+  ],"connections":{"Manual review trigger":{"main":[[{"node":"Prepare owner digest","type":"main","index":0}]]},"Prepare owner digest":{"main":[[{"node":"Dispatch overdue digest","type":"main","index":0}]]}},"active":false,"settings":{"executionOrder":"v1"},"pinData":{}
+}

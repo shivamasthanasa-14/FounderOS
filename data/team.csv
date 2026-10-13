@@ -1,0 +1,21 @@
+employee_id,function,role,weekly_capacity_hours
+CEO-01,Management,CEO,40
+OPS-01,Management,Founder Associate,40
+FIN-01,Management,Finance,40
+SAL-01,Sales,AE,40
+SAL-02,Sales,AE,40
+SAL-03,Sales,SDR,40
+CS-01,Customer Success,Implementation Manager,40
+CS-02,Customer Success,Implementation Manager,40
+CS-03,Customer Success,CSM,40
+SUP-01,Customer Success,Support,40
+SUP-02,Customer Success,Support,40
+PM-01,Product,Product Manager,40
+PD-01,Product,Designer,40
+ENG-01,Engineering,Engineer,40
+ENG-02,Engineering,Engineer,40
+ENG-03,Engineering,Engineer,40
+ENG-04,Engineering,Engineer,40
+ENG-05,Engineering,Engineer,40
+ENG-06,Engineering,Engineer,40
+ENG-07,Engineering,Engineer,40

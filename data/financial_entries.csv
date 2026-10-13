@@ -1,0 +1,580 @@
+entry_id,entry_date,entry_type,amount,customer_id,description
+FIN-OPEN,2026-06-30,opening_cash,150000.0,,Opening bank balance for the demonstration reporting window
+FIN-REV-202607-CUS-001,2026-07-31,recognized_revenue,900.0,CUS-001,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-002,2026-07-31,recognized_revenue,450.0,CUS-002,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-003,2026-07-31,recognized_revenue,450.0,CUS-003,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-004,2026-07-31,recognized_revenue,900.0,CUS-004,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-005,2026-07-31,recognized_revenue,465.24,CUS-005,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-006,2026-07-31,recognized_revenue,900.0,CUS-006,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-007,2026-07-31,recognized_revenue,450.0,CUS-007,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-008,2026-07-31,recognized_revenue,450.0,CUS-008,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-009,2026-07-31,recognized_revenue,450.0,CUS-009,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-010,2026-07-31,recognized_revenue,450.0,CUS-010,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-011,2026-07-31,recognized_revenue,450.0,CUS-011,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-012,2026-07-31,recognized_revenue,900.0,CUS-012,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-013,2026-07-31,recognized_revenue,900.0,CUS-013,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-014,2026-07-31,recognized_revenue,1800.0,CUS-014,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-015,2026-07-31,recognized_revenue,1800.0,CUS-015,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-016,2026-07-31,recognized_revenue,900.0,CUS-016,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-017,2026-07-31,recognized_revenue,900.0,CUS-017,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-018,2026-07-31,recognized_revenue,450.0,CUS-018,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-019,2026-07-31,recognized_revenue,1800.0,CUS-019,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-020,2026-07-31,recognized_revenue,450.0,CUS-020,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-021,2026-07-31,recognized_revenue,900.0,CUS-021,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-022,2026-07-31,recognized_revenue,900.0,CUS-022,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-023,2026-07-31,recognized_revenue,450.0,CUS-023,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-024,2026-07-31,recognized_revenue,900.0,CUS-024,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-025,2026-07-31,recognized_revenue,450.0,CUS-025,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-026,2026-07-31,recognized_revenue,900.0,CUS-026,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-027,2026-07-31,recognized_revenue,450.0,CUS-027,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-028,2026-07-31,recognized_revenue,1800.0,CUS-028,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-029,2026-07-31,recognized_revenue,450.0,CUS-029,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-030,2026-07-31,recognized_revenue,900.0,CUS-030,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-031,2026-07-31,recognized_revenue,450.0,CUS-031,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-032,2026-07-31,recognized_revenue,900.0,CUS-032,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-033,2026-07-31,recognized_revenue,900.0,CUS-033,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-034,2026-07-31,recognized_revenue,900.0,CUS-034,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-035,2026-07-31,recognized_revenue,900.0,CUS-035,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-036,2026-07-31,recognized_revenue,450.0,CUS-036,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-037,2026-07-31,recognized_revenue,450.0,CUS-037,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-038,2026-07-31,recognized_revenue,900.0,CUS-038,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-039,2026-07-31,recognized_revenue,450.0,CUS-039,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-040,2026-07-31,recognized_revenue,900.0,CUS-040,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-041,2026-07-31,recognized_revenue,900.0,CUS-041,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-042,2026-07-31,recognized_revenue,450.0,CUS-042,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-043,2026-07-31,recognized_revenue,900.0,CUS-043,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-044,2026-07-31,recognized_revenue,900.0,CUS-044,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-045,2026-07-31,recognized_revenue,900.0,CUS-045,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-046,2026-07-31,recognized_revenue,450.0,CUS-046,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-047,2026-07-31,recognized_revenue,1800.0,CUS-047,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-048,2026-07-31,recognized_revenue,900.0,CUS-048,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-049,2026-07-31,recognized_revenue,900.0,CUS-049,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-050,2026-07-31,recognized_revenue,450.0,CUS-050,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-051,2026-07-31,recognized_revenue,900.0,CUS-051,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-052,2026-07-31,recognized_revenue,1800.0,CUS-052,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-053,2026-07-31,recognized_revenue,900.0,CUS-053,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-054,2026-07-31,recognized_revenue,450.0,CUS-054,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-055,2026-07-31,recognized_revenue,900.0,CUS-055,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-056,2026-07-31,recognized_revenue,450.0,CUS-056,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-057,2026-07-31,recognized_revenue,900.0,CUS-057,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-058,2026-07-31,recognized_revenue,900.0,CUS-058,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-059,2026-07-31,recognized_revenue,900.0,CUS-059,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-060,2026-07-31,recognized_revenue,450.0,CUS-060,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-061,2026-07-31,recognized_revenue,900.0,CUS-061,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-062,2026-07-31,recognized_revenue,900.0,CUS-062,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-063,2026-07-31,recognized_revenue,900.0,CUS-063,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-064,2026-07-31,recognized_revenue,1800.0,CUS-064,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-065,2026-07-31,recognized_revenue,900.0,CUS-065,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-066,2026-07-31,recognized_revenue,900.0,CUS-066,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-067,2026-07-31,recognized_revenue,900.0,CUS-067,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-068,2026-07-31,recognized_revenue,450.0,CUS-068,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-069,2026-07-31,recognized_revenue,900.0,CUS-069,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-070,2026-07-31,recognized_revenue,450.0,CUS-070,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-071,2026-07-31,recognized_revenue,900.0,CUS-071,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-072,2026-07-31,recognized_revenue,1800.0,CUS-072,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-073,2026-07-31,recognized_revenue,1800.0,CUS-073,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-074,2026-07-31,recognized_revenue,450.0,CUS-074,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-075,2026-07-31,recognized_revenue,900.0,CUS-075,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-076,2026-07-31,recognized_revenue,450.0,CUS-076,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-077,2026-07-31,recognized_revenue,900.0,CUS-077,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-078,2026-07-31,recognized_revenue,900.0,CUS-078,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-079,2026-07-31,recognized_revenue,1800.0,CUS-079,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-080,2026-07-31,recognized_revenue,1800.0,CUS-080,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-081,2026-07-31,recognized_revenue,377.42,CUS-081,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-082,2026-07-31,recognized_revenue,362.9,CUS-082,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-083,2026-07-31,recognized_revenue,493.55,CUS-083,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-084,2026-07-31,recognized_revenue,232.26,CUS-084,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-085,2026-07-31,recognized_revenue,232.26,CUS-085,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-086,2026-07-31,recognized_revenue,348.39,CUS-086,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-087,2026-07-31,recognized_revenue,116.13,CUS-087,Monthly subscription service accrued from effective contract prices
+FIN-REV-202607-CUS-088,2026-07-31,recognized_revenue,87.1,CUS-088,Monthly subscription service accrued from effective contract prices
+FIN-RCT-202607-CUS-001,2026-07-31,cash_receipt,765.0,CUS-001,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-002,2026-07-31,cash_receipt,382.5,CUS-002,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-003,2026-07-31,cash_receipt,382.5,CUS-003,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-004,2026-07-31,cash_receipt,765.0,CUS-004,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-005,2026-07-31,cash_receipt,395.45,CUS-005,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-006,2026-07-31,cash_receipt,765.0,CUS-006,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-007,2026-07-31,cash_receipt,382.5,CUS-007,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-008,2026-07-31,cash_receipt,382.5,CUS-008,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-009,2026-07-31,cash_receipt,382.5,CUS-009,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-010,2026-07-31,cash_receipt,382.5,CUS-010,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-011,2026-07-31,cash_receipt,382.5,CUS-011,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-012,2026-07-31,cash_receipt,765.0,CUS-012,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-013,2026-07-31,cash_receipt,765.0,CUS-013,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-014,2026-07-31,cash_receipt,1530.0,CUS-014,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-015,2026-07-31,cash_receipt,1530.0,CUS-015,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-016,2026-07-31,cash_receipt,765.0,CUS-016,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-017,2026-07-31,cash_receipt,765.0,CUS-017,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-018,2026-07-31,cash_receipt,382.5,CUS-018,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-019,2026-07-31,cash_receipt,1530.0,CUS-019,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-020,2026-07-31,cash_receipt,382.5,CUS-020,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-021,2026-07-31,cash_receipt,765.0,CUS-021,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-022,2026-07-31,cash_receipt,765.0,CUS-022,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-023,2026-07-31,cash_receipt,382.5,CUS-023,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-024,2026-07-31,cash_receipt,765.0,CUS-024,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-025,2026-07-31,cash_receipt,382.5,CUS-025,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-026,2026-07-31,cash_receipt,765.0,CUS-026,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-027,2026-07-31,cash_receipt,382.5,CUS-027,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-028,2026-07-31,cash_receipt,1530.0,CUS-028,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-029,2026-07-31,cash_receipt,382.5,CUS-029,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-030,2026-07-31,cash_receipt,765.0,CUS-030,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-031,2026-07-31,cash_receipt,382.5,CUS-031,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-032,2026-07-31,cash_receipt,765.0,CUS-032,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-033,2026-07-31,cash_receipt,765.0,CUS-033,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-034,2026-07-31,cash_receipt,765.0,CUS-034,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-035,2026-07-31,cash_receipt,765.0,CUS-035,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-036,2026-07-31,cash_receipt,382.5,CUS-036,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-037,2026-07-31,cash_receipt,382.5,CUS-037,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-038,2026-07-31,cash_receipt,765.0,CUS-038,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-039,2026-07-31,cash_receipt,382.5,CUS-039,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-040,2026-07-31,cash_receipt,765.0,CUS-040,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-041,2026-07-31,cash_receipt,765.0,CUS-041,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-042,2026-07-31,cash_receipt,382.5,CUS-042,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-043,2026-07-31,cash_receipt,765.0,CUS-043,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-044,2026-07-31,cash_receipt,765.0,CUS-044,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-045,2026-07-31,cash_receipt,765.0,CUS-045,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-046,2026-07-31,cash_receipt,382.5,CUS-046,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-047,2026-07-31,cash_receipt,1530.0,CUS-047,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-048,2026-07-31,cash_receipt,765.0,CUS-048,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-049,2026-07-31,cash_receipt,765.0,CUS-049,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-050,2026-07-31,cash_receipt,382.5,CUS-050,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-051,2026-07-31,cash_receipt,765.0,CUS-051,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-052,2026-07-31,cash_receipt,1530.0,CUS-052,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-053,2026-07-31,cash_receipt,765.0,CUS-053,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-054,2026-07-31,cash_receipt,382.5,CUS-054,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-055,2026-07-31,cash_receipt,765.0,CUS-055,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-056,2026-07-31,cash_receipt,382.5,CUS-056,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-057,2026-07-31,cash_receipt,765.0,CUS-057,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-058,2026-07-31,cash_receipt,765.0,CUS-058,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-059,2026-07-31,cash_receipt,765.0,CUS-059,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-060,2026-07-31,cash_receipt,382.5,CUS-060,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-061,2026-07-31,cash_receipt,765.0,CUS-061,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-062,2026-07-31,cash_receipt,765.0,CUS-062,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-063,2026-07-31,cash_receipt,765.0,CUS-063,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-064,2026-07-31,cash_receipt,1530.0,CUS-064,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-065,2026-07-31,cash_receipt,765.0,CUS-065,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-066,2026-07-31,cash_receipt,765.0,CUS-066,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-067,2026-07-31,cash_receipt,765.0,CUS-067,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-068,2026-07-31,cash_receipt,382.5,CUS-068,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-069,2026-07-31,cash_receipt,765.0,CUS-069,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-070,2026-07-31,cash_receipt,382.5,CUS-070,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-071,2026-07-31,cash_receipt,765.0,CUS-071,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-072,2026-07-31,cash_receipt,1530.0,CUS-072,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-073,2026-07-31,cash_receipt,1530.0,CUS-073,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-074,2026-07-31,cash_receipt,382.5,CUS-074,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-075,2026-07-31,cash_receipt,765.0,CUS-075,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-076,2026-07-31,cash_receipt,382.5,CUS-076,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-077,2026-07-31,cash_receipt,765.0,CUS-077,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-078,2026-07-31,cash_receipt,765.0,CUS-078,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-079,2026-07-31,cash_receipt,1530.0,CUS-079,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-080,2026-07-31,cash_receipt,1530.0,CUS-080,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-081,2026-07-31,cash_receipt,320.81,CUS-081,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-082,2026-07-31,cash_receipt,308.46,CUS-082,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-083,2026-07-31,cash_receipt,419.52,CUS-083,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-084,2026-07-31,cash_receipt,197.42,CUS-084,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-085,2026-07-31,cash_receipt,197.42,CUS-085,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-086,2026-07-31,cash_receipt,296.13,CUS-086,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-087,2026-07-31,cash_receipt,98.71,CUS-087,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202607-CUS-088,2026-07-31,cash_receipt,74.03,CUS-088,Current-month collection plus prior-month receivable settlement
+FIN-COST-202607-HOSTING,2026-07-31,direct_cost,8587.83,,Hosting service cost recognized in the month
+FIN-PAY-202607-HOSTING,2026-07-31,cash_payment,8587.83,,Hosting service cost paid in the month
+FIN-COST-202607-DELIVERY,2026-07-31,direct_cost,26000.0,,Delivery service cost recognized in the month
+FIN-PAY-202607-DELIVERY,2026-07-31,cash_payment,26000.0,,Delivery service cost paid in the month
+FIN-PAY-202607-OPERATING,2026-07-31,cash_payment,48000.0,,Other payroll and operating cash payments; excluded from gross service margin
+FIN-CLOSE-202607,2026-07-31,closing_cash,128242.62,,Month-end bank statement balance; must reconcile to recorded cash movements
+FIN-REV-202608-CUS-001,2026-08-31,recognized_revenue,900.0,CUS-001,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-002,2026-08-31,recognized_revenue,450.0,CUS-002,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-003,2026-08-31,recognized_revenue,450.0,CUS-003,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-004,2026-08-31,recognized_revenue,900.0,CUS-004,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-005,2026-08-31,recognized_revenue,607.5,CUS-005,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-006,2026-08-31,recognized_revenue,900.0,CUS-006,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-007,2026-08-31,recognized_revenue,450.0,CUS-007,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-008,2026-08-31,recognized_revenue,450.0,CUS-008,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-009,2026-08-31,recognized_revenue,450.0,CUS-009,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-010,2026-08-31,recognized_revenue,450.0,CUS-010,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-011,2026-08-31,recognized_revenue,450.0,CUS-011,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-012,2026-08-31,recognized_revenue,900.0,CUS-012,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-013,2026-08-31,recognized_revenue,900.0,CUS-013,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-014,2026-08-31,recognized_revenue,1800.0,CUS-014,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-015,2026-08-31,recognized_revenue,1800.0,CUS-015,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-016,2026-08-31,recognized_revenue,1045.16,CUS-016,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-017,2026-08-31,recognized_revenue,900.0,CUS-017,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-018,2026-08-31,recognized_revenue,450.0,CUS-018,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-019,2026-08-31,recognized_revenue,1800.0,CUS-019,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-020,2026-08-31,recognized_revenue,450.0,CUS-020,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-021,2026-08-31,recognized_revenue,900.0,CUS-021,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-022,2026-08-31,recognized_revenue,900.0,CUS-022,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-023,2026-08-31,recognized_revenue,450.0,CUS-023,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-024,2026-08-31,recognized_revenue,900.0,CUS-024,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-025,2026-08-31,recognized_revenue,450.0,CUS-025,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-026,2026-08-31,recognized_revenue,900.0,CUS-026,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-027,2026-08-31,recognized_revenue,450.0,CUS-027,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-028,2026-08-31,recognized_revenue,1800.0,CUS-028,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-029,2026-08-31,recognized_revenue,450.0,CUS-029,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-030,2026-08-31,recognized_revenue,900.0,CUS-030,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-031,2026-08-31,recognized_revenue,450.0,CUS-031,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-032,2026-08-31,recognized_revenue,900.0,CUS-032,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-033,2026-08-31,recognized_revenue,900.0,CUS-033,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-034,2026-08-31,recognized_revenue,900.0,CUS-034,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-035,2026-08-31,recognized_revenue,900.0,CUS-035,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-036,2026-08-31,recognized_revenue,450.0,CUS-036,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-037,2026-08-31,recognized_revenue,450.0,CUS-037,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-038,2026-08-31,recognized_revenue,900.0,CUS-038,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-039,2026-08-31,recognized_revenue,450.0,CUS-039,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-040,2026-08-31,recognized_revenue,900.0,CUS-040,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-041,2026-08-31,recognized_revenue,900.0,CUS-041,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-042,2026-08-31,recognized_revenue,450.0,CUS-042,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-043,2026-08-31,recognized_revenue,900.0,CUS-043,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-044,2026-08-31,recognized_revenue,900.0,CUS-044,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-045,2026-08-31,recognized_revenue,900.0,CUS-045,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-046,2026-08-31,recognized_revenue,450.0,CUS-046,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-047,2026-08-31,recognized_revenue,1800.0,CUS-047,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-048,2026-08-31,recognized_revenue,900.0,CUS-048,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-049,2026-08-31,recognized_revenue,900.0,CUS-049,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-050,2026-08-31,recognized_revenue,450.0,CUS-050,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-051,2026-08-31,recognized_revenue,900.0,CUS-051,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-052,2026-08-31,recognized_revenue,1800.0,CUS-052,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-053,2026-08-31,recognized_revenue,900.0,CUS-053,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-054,2026-08-31,recognized_revenue,450.0,CUS-054,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-055,2026-08-31,recognized_revenue,900.0,CUS-055,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-056,2026-08-31,recognized_revenue,450.0,CUS-056,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-057,2026-08-31,recognized_revenue,900.0,CUS-057,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-058,2026-08-31,recognized_revenue,900.0,CUS-058,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-059,2026-08-31,recognized_revenue,900.0,CUS-059,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-060,2026-08-31,recognized_revenue,450.0,CUS-060,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-061,2026-08-31,recognized_revenue,900.0,CUS-061,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-062,2026-08-31,recognized_revenue,900.0,CUS-062,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-063,2026-08-31,recognized_revenue,900.0,CUS-063,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-064,2026-08-31,recognized_revenue,1800.0,CUS-064,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-065,2026-08-31,recognized_revenue,900.0,CUS-065,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-066,2026-08-31,recognized_revenue,900.0,CUS-066,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-067,2026-08-31,recognized_revenue,900.0,CUS-067,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-068,2026-08-31,recognized_revenue,450.0,CUS-068,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-069,2026-08-31,recognized_revenue,900.0,CUS-069,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-070,2026-08-31,recognized_revenue,450.0,CUS-070,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-071,2026-08-31,recognized_revenue,900.0,CUS-071,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-072,2026-08-31,recognized_revenue,1800.0,CUS-072,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-073,2026-08-31,recognized_revenue,1800.0,CUS-073,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-074,2026-08-31,recognized_revenue,450.0,CUS-074,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-075,2026-08-31,recognized_revenue,900.0,CUS-075,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-076,2026-08-31,recognized_revenue,450.0,CUS-076,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-077,2026-08-31,recognized_revenue,900.0,CUS-077,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-078,2026-08-31,recognized_revenue,900.0,CUS-078,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-079,2026-08-31,recognized_revenue,1800.0,CUS-079,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-080,2026-08-31,recognized_revenue,1800.0,CUS-080,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-081,2026-08-31,recognized_revenue,450.0,CUS-081,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-082,2026-08-31,recognized_revenue,450.0,CUS-082,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-083,2026-08-31,recognized_revenue,900.0,CUS-083,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-084,2026-08-31,recognized_revenue,450.0,CUS-084,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-085,2026-08-31,recognized_revenue,900.0,CUS-085,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-086,2026-08-31,recognized_revenue,900.0,CUS-086,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-087,2026-08-31,recognized_revenue,900.0,CUS-087,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-088,2026-08-31,recognized_revenue,900.0,CUS-088,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-089,2026-08-31,recognized_revenue,377.42,CUS-089,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-090,2026-08-31,recognized_revenue,725.81,CUS-090,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-091,2026-08-31,recognized_revenue,319.35,CUS-091,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-092,2026-08-31,recognized_revenue,609.68,CUS-092,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-093,2026-08-31,recognized_revenue,754.84,CUS-093,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-094,2026-08-31,recognized_revenue,348.39,CUS-094,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-095,2026-08-31,recognized_revenue,58.06,CUS-095,Monthly subscription service accrued from effective contract prices
+FIN-REV-202608-CUS-096,2026-08-31,recognized_revenue,232.26,CUS-096,Monthly subscription service accrued from effective contract prices
+FIN-RCT-202608-CUS-001,2026-08-31,cash_receipt,900.0,CUS-001,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-002,2026-08-31,cash_receipt,450.0,CUS-002,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-003,2026-08-31,cash_receipt,450.0,CUS-003,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-004,2026-08-31,cash_receipt,900.0,CUS-004,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-005,2026-08-31,cash_receipt,586.16,CUS-005,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-006,2026-08-31,cash_receipt,900.0,CUS-006,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-007,2026-08-31,cash_receipt,450.0,CUS-007,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-008,2026-08-31,cash_receipt,450.0,CUS-008,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-009,2026-08-31,cash_receipt,450.0,CUS-009,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-010,2026-08-31,cash_receipt,450.0,CUS-010,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-011,2026-08-31,cash_receipt,450.0,CUS-011,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-012,2026-08-31,cash_receipt,900.0,CUS-012,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-013,2026-08-31,cash_receipt,900.0,CUS-013,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-014,2026-08-31,cash_receipt,1800.0,CUS-014,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-015,2026-08-31,cash_receipt,1800.0,CUS-015,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-016,2026-08-31,cash_receipt,1023.39,CUS-016,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-017,2026-08-31,cash_receipt,900.0,CUS-017,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-018,2026-08-31,cash_receipt,450.0,CUS-018,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-019,2026-08-31,cash_receipt,1800.0,CUS-019,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-020,2026-08-31,cash_receipt,450.0,CUS-020,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-021,2026-08-31,cash_receipt,900.0,CUS-021,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-022,2026-08-31,cash_receipt,900.0,CUS-022,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-023,2026-08-31,cash_receipt,450.0,CUS-023,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-024,2026-08-31,cash_receipt,900.0,CUS-024,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-025,2026-08-31,cash_receipt,450.0,CUS-025,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-026,2026-08-31,cash_receipt,900.0,CUS-026,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-027,2026-08-31,cash_receipt,450.0,CUS-027,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-028,2026-08-31,cash_receipt,1800.0,CUS-028,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-029,2026-08-31,cash_receipt,450.0,CUS-029,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-030,2026-08-31,cash_receipt,900.0,CUS-030,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-031,2026-08-31,cash_receipt,450.0,CUS-031,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-032,2026-08-31,cash_receipt,900.0,CUS-032,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-033,2026-08-31,cash_receipt,900.0,CUS-033,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-034,2026-08-31,cash_receipt,900.0,CUS-034,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-035,2026-08-31,cash_receipt,900.0,CUS-035,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-036,2026-08-31,cash_receipt,450.0,CUS-036,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-037,2026-08-31,cash_receipt,450.0,CUS-037,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-038,2026-08-31,cash_receipt,900.0,CUS-038,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-039,2026-08-31,cash_receipt,450.0,CUS-039,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-040,2026-08-31,cash_receipt,900.0,CUS-040,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-041,2026-08-31,cash_receipt,900.0,CUS-041,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-042,2026-08-31,cash_receipt,450.0,CUS-042,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-043,2026-08-31,cash_receipt,900.0,CUS-043,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-044,2026-08-31,cash_receipt,900.0,CUS-044,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-045,2026-08-31,cash_receipt,900.0,CUS-045,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-046,2026-08-31,cash_receipt,450.0,CUS-046,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-047,2026-08-31,cash_receipt,1800.0,CUS-047,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-048,2026-08-31,cash_receipt,900.0,CUS-048,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-049,2026-08-31,cash_receipt,900.0,CUS-049,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-050,2026-08-31,cash_receipt,450.0,CUS-050,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-051,2026-08-31,cash_receipt,900.0,CUS-051,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-052,2026-08-31,cash_receipt,1800.0,CUS-052,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-053,2026-08-31,cash_receipt,900.0,CUS-053,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-054,2026-08-31,cash_receipt,450.0,CUS-054,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-055,2026-08-31,cash_receipt,900.0,CUS-055,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-056,2026-08-31,cash_receipt,450.0,CUS-056,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-057,2026-08-31,cash_receipt,900.0,CUS-057,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-058,2026-08-31,cash_receipt,900.0,CUS-058,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-059,2026-08-31,cash_receipt,900.0,CUS-059,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-060,2026-08-31,cash_receipt,450.0,CUS-060,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-061,2026-08-31,cash_receipt,900.0,CUS-061,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-062,2026-08-31,cash_receipt,900.0,CUS-062,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-063,2026-08-31,cash_receipt,900.0,CUS-063,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-064,2026-08-31,cash_receipt,1800.0,CUS-064,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-065,2026-08-31,cash_receipt,900.0,CUS-065,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-066,2026-08-31,cash_receipt,900.0,CUS-066,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-067,2026-08-31,cash_receipt,900.0,CUS-067,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-068,2026-08-31,cash_receipt,450.0,CUS-068,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-069,2026-08-31,cash_receipt,900.0,CUS-069,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-070,2026-08-31,cash_receipt,450.0,CUS-070,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-071,2026-08-31,cash_receipt,900.0,CUS-071,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-072,2026-08-31,cash_receipt,1800.0,CUS-072,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-073,2026-08-31,cash_receipt,1800.0,CUS-073,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-074,2026-08-31,cash_receipt,450.0,CUS-074,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-075,2026-08-31,cash_receipt,900.0,CUS-075,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-076,2026-08-31,cash_receipt,450.0,CUS-076,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-077,2026-08-31,cash_receipt,900.0,CUS-077,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-078,2026-08-31,cash_receipt,900.0,CUS-078,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-079,2026-08-31,cash_receipt,1800.0,CUS-079,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-080,2026-08-31,cash_receipt,1800.0,CUS-080,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-081,2026-08-31,cash_receipt,439.11,CUS-081,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-082,2026-08-31,cash_receipt,436.94,CUS-082,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-083,2026-08-31,cash_receipt,839.03,CUS-083,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-084,2026-08-31,cash_receipt,417.34,CUS-084,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-085,2026-08-31,cash_receipt,799.84,CUS-085,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-086,2026-08-31,cash_receipt,817.26,CUS-086,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-087,2026-08-31,cash_receipt,782.42,CUS-087,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-088,2026-08-31,cash_receipt,778.07,CUS-088,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-089,2026-08-31,cash_receipt,320.81,CUS-089,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-090,2026-08-31,cash_receipt,616.94,CUS-090,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-091,2026-08-31,cash_receipt,271.45,CUS-091,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-092,2026-08-31,cash_receipt,518.23,CUS-092,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-093,2026-08-31,cash_receipt,641.61,CUS-093,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-094,2026-08-31,cash_receipt,296.13,CUS-094,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-095,2026-08-31,cash_receipt,49.35,CUS-095,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202608-CUS-096,2026-08-31,cash_receipt,197.42,CUS-096,Current-month collection plus prior-month receivable settlement
+FIN-COST-202608-HOSTING,2026-08-31,direct_cost,9465.42,,Hosting service cost recognized in the month
+FIN-PAY-202608-HOSTING,2026-08-31,cash_payment,9465.42,,Hosting service cost paid in the month
+FIN-COST-202608-DELIVERY,2026-08-31,direct_cost,26000.0,,Delivery service cost recognized in the month
+FIN-PAY-202608-DELIVERY,2026-08-31,cash_payment,26000.0,,Delivery service cost paid in the month
+FIN-PAY-202608-OPERATING,2026-08-31,cash_payment,48000.0,,Other payroll and operating cash payments; excluded from gross service margin
+FIN-CLOSE-202608,2026-08-31,closing_cash,122558.7,,Month-end bank statement balance; must reconcile to recorded cash movements
+FIN-REV-202609-CUS-001,2026-09-30,recognized_revenue,900.0,CUS-001,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-002,2026-09-30,recognized_revenue,450.0,CUS-002,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-003,2026-09-30,recognized_revenue,450.0,CUS-003,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-004,2026-09-30,recognized_revenue,900.0,CUS-004,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-005,2026-09-30,recognized_revenue,607.5,CUS-005,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-006,2026-09-30,recognized_revenue,900.0,CUS-006,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-007,2026-09-30,recognized_revenue,450.0,CUS-007,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-008,2026-09-30,recognized_revenue,450.0,CUS-008,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-009,2026-09-30,recognized_revenue,450.0,CUS-009,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-010,2026-09-30,recognized_revenue,450.0,CUS-010,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-011,2026-09-30,recognized_revenue,450.0,CUS-011,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-012,2026-09-30,recognized_revenue,900.0,CUS-012,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-013,2026-09-30,recognized_revenue,900.0,CUS-013,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-014,2026-09-30,recognized_revenue,1800.0,CUS-014,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-015,2026-09-30,recognized_revenue,1800.0,CUS-015,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-016,2026-09-30,recognized_revenue,1125.0,CUS-016,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-017,2026-09-30,recognized_revenue,900.0,CUS-017,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-018,2026-09-30,recognized_revenue,450.0,CUS-018,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-019,2026-09-30,recognized_revenue,1800.0,CUS-019,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-020,2026-09-30,recognized_revenue,450.0,CUS-020,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-021,2026-09-30,recognized_revenue,900.0,CUS-021,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-022,2026-09-30,recognized_revenue,900.0,CUS-022,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-023,2026-09-30,recognized_revenue,450.0,CUS-023,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-024,2026-09-30,recognized_revenue,639.0,CUS-024,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-025,2026-09-30,recognized_revenue,450.0,CUS-025,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-026,2026-09-30,recognized_revenue,900.0,CUS-026,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-027,2026-09-30,recognized_revenue,450.0,CUS-027,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-028,2026-09-30,recognized_revenue,1800.0,CUS-028,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-029,2026-09-30,recognized_revenue,450.0,CUS-029,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-030,2026-09-30,recognized_revenue,900.0,CUS-030,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-031,2026-09-30,recognized_revenue,450.0,CUS-031,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-032,2026-09-30,recognized_revenue,240.0,CUS-032,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-033,2026-09-30,recognized_revenue,900.0,CUS-033,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-034,2026-09-30,recognized_revenue,900.0,CUS-034,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-035,2026-09-30,recognized_revenue,900.0,CUS-035,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-036,2026-09-30,recognized_revenue,450.0,CUS-036,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-037,2026-09-30,recognized_revenue,450.0,CUS-037,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-038,2026-09-30,recognized_revenue,900.0,CUS-038,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-039,2026-09-30,recognized_revenue,450.0,CUS-039,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-040,2026-09-30,recognized_revenue,900.0,CUS-040,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-041,2026-09-30,recognized_revenue,900.0,CUS-041,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-042,2026-09-30,recognized_revenue,450.0,CUS-042,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-043,2026-09-30,recognized_revenue,900.0,CUS-043,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-044,2026-09-30,recognized_revenue,900.0,CUS-044,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-045,2026-09-30,recognized_revenue,720.0,CUS-045,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-046,2026-09-30,recognized_revenue,450.0,CUS-046,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-047,2026-09-30,recognized_revenue,1800.0,CUS-047,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-048,2026-09-30,recognized_revenue,900.0,CUS-048,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-049,2026-09-30,recognized_revenue,900.0,CUS-049,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-050,2026-09-30,recognized_revenue,450.0,CUS-050,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-051,2026-09-30,recognized_revenue,900.0,CUS-051,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-052,2026-09-30,recognized_revenue,1800.0,CUS-052,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-053,2026-09-30,recognized_revenue,660.0,CUS-053,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-054,2026-09-30,recognized_revenue,450.0,CUS-054,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-055,2026-09-30,recognized_revenue,900.0,CUS-055,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-056,2026-09-30,recognized_revenue,450.0,CUS-056,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-057,2026-09-30,recognized_revenue,900.0,CUS-057,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-058,2026-09-30,recognized_revenue,900.0,CUS-058,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-059,2026-09-30,recognized_revenue,900.0,CUS-059,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-060,2026-09-30,recognized_revenue,450.0,CUS-060,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-061,2026-09-30,recognized_revenue,900.0,CUS-061,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-062,2026-09-30,recognized_revenue,900.0,CUS-062,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-063,2026-09-30,recognized_revenue,900.0,CUS-063,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-064,2026-09-30,recognized_revenue,1800.0,CUS-064,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-065,2026-09-30,recognized_revenue,900.0,CUS-065,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-066,2026-09-30,recognized_revenue,900.0,CUS-066,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-067,2026-09-30,recognized_revenue,900.0,CUS-067,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-068,2026-09-30,recognized_revenue,414.0,CUS-068,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-069,2026-09-30,recognized_revenue,900.0,CUS-069,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-070,2026-09-30,recognized_revenue,450.0,CUS-070,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-071,2026-09-30,recognized_revenue,900.0,CUS-071,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-072,2026-09-30,recognized_revenue,1800.0,CUS-072,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-073,2026-09-30,recognized_revenue,1800.0,CUS-073,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-074,2026-09-30,recognized_revenue,450.0,CUS-074,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-075,2026-09-30,recognized_revenue,900.0,CUS-075,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-076,2026-09-30,recognized_revenue,450.0,CUS-076,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-077,2026-09-30,recognized_revenue,900.0,CUS-077,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-078,2026-09-30,recognized_revenue,900.0,CUS-078,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-079,2026-09-30,recognized_revenue,1800.0,CUS-079,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-080,2026-09-30,recognized_revenue,1800.0,CUS-080,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-081,2026-09-30,recognized_revenue,450.0,CUS-081,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-082,2026-09-30,recognized_revenue,450.0,CUS-082,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-083,2026-09-30,recognized_revenue,900.0,CUS-083,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-084,2026-09-30,recognized_revenue,450.0,CUS-084,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-085,2026-09-30,recognized_revenue,900.0,CUS-085,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-086,2026-09-30,recognized_revenue,900.0,CUS-086,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-087,2026-09-30,recognized_revenue,900.0,CUS-087,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-088,2026-09-30,recognized_revenue,900.0,CUS-088,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-089,2026-09-30,recognized_revenue,450.0,CUS-089,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-090,2026-09-30,recognized_revenue,900.0,CUS-090,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-091,2026-09-30,recognized_revenue,450.0,CUS-091,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-092,2026-09-30,recognized_revenue,900.0,CUS-092,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-093,2026-09-30,recognized_revenue,1800.0,CUS-093,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-094,2026-09-30,recognized_revenue,900.0,CUS-094,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-095,2026-09-30,recognized_revenue,450.0,CUS-095,Monthly subscription service accrued from effective contract prices
+FIN-REV-202609-CUS-096,2026-09-30,recognized_revenue,900.0,CUS-096,Monthly subscription service accrued from effective contract prices
+FIN-RCT-202609-CUS-001,2026-09-30,cash_receipt,900.0,CUS-001,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-002,2026-09-30,cash_receipt,450.0,CUS-002,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-003,2026-09-30,cash_receipt,450.0,CUS-003,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-004,2026-09-30,cash_receipt,900.0,CUS-004,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-005,2026-09-30,cash_receipt,607.5,CUS-005,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-006,2026-09-30,cash_receipt,900.0,CUS-006,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-007,2026-09-30,cash_receipt,450.0,CUS-007,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-008,2026-09-30,cash_receipt,450.0,CUS-008,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-009,2026-09-30,cash_receipt,450.0,CUS-009,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-010,2026-09-30,cash_receipt,450.0,CUS-010,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-011,2026-09-30,cash_receipt,450.0,CUS-011,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-012,2026-09-30,cash_receipt,900.0,CUS-012,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-013,2026-09-30,cash_receipt,900.0,CUS-013,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-014,2026-09-30,cash_receipt,1800.0,CUS-014,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-015,2026-09-30,cash_receipt,1800.0,CUS-015,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-016,2026-09-30,cash_receipt,1113.02,CUS-016,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-017,2026-09-30,cash_receipt,900.0,CUS-017,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-018,2026-09-30,cash_receipt,450.0,CUS-018,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-019,2026-09-30,cash_receipt,1800.0,CUS-019,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-020,2026-09-30,cash_receipt,450.0,CUS-020,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-021,2026-09-30,cash_receipt,900.0,CUS-021,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-022,2026-09-30,cash_receipt,900.0,CUS-022,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-023,2026-09-30,cash_receipt,450.0,CUS-023,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-024,2026-09-30,cash_receipt,678.15,CUS-024,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-025,2026-09-30,cash_receipt,450.0,CUS-025,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-026,2026-09-30,cash_receipt,900.0,CUS-026,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-027,2026-09-30,cash_receipt,450.0,CUS-027,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-028,2026-09-30,cash_receipt,1800.0,CUS-028,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-029,2026-09-30,cash_receipt,450.0,CUS-029,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-030,2026-09-30,cash_receipt,900.0,CUS-030,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-031,2026-09-30,cash_receipt,450.0,CUS-031,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-032,2026-09-30,cash_receipt,339.0,CUS-032,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-033,2026-09-30,cash_receipt,900.0,CUS-033,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-034,2026-09-30,cash_receipt,900.0,CUS-034,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-035,2026-09-30,cash_receipt,900.0,CUS-035,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-036,2026-09-30,cash_receipt,450.0,CUS-036,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-037,2026-09-30,cash_receipt,450.0,CUS-037,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-038,2026-09-30,cash_receipt,900.0,CUS-038,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-039,2026-09-30,cash_receipt,450.0,CUS-039,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-040,2026-09-30,cash_receipt,900.0,CUS-040,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-041,2026-09-30,cash_receipt,900.0,CUS-041,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-042,2026-09-30,cash_receipt,450.0,CUS-042,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-043,2026-09-30,cash_receipt,900.0,CUS-043,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-044,2026-09-30,cash_receipt,900.0,CUS-044,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-045,2026-09-30,cash_receipt,747.0,CUS-045,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-046,2026-09-30,cash_receipt,450.0,CUS-046,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-047,2026-09-30,cash_receipt,1800.0,CUS-047,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-048,2026-09-30,cash_receipt,900.0,CUS-048,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-049,2026-09-30,cash_receipt,900.0,CUS-049,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-050,2026-09-30,cash_receipt,450.0,CUS-050,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-051,2026-09-30,cash_receipt,900.0,CUS-051,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-052,2026-09-30,cash_receipt,1800.0,CUS-052,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-053,2026-09-30,cash_receipt,696.0,CUS-053,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-054,2026-09-30,cash_receipt,450.0,CUS-054,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-055,2026-09-30,cash_receipt,900.0,CUS-055,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-056,2026-09-30,cash_receipt,450.0,CUS-056,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-057,2026-09-30,cash_receipt,900.0,CUS-057,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-058,2026-09-30,cash_receipt,900.0,CUS-058,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-059,2026-09-30,cash_receipt,900.0,CUS-059,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-060,2026-09-30,cash_receipt,450.0,CUS-060,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-061,2026-09-30,cash_receipt,900.0,CUS-061,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-062,2026-09-30,cash_receipt,900.0,CUS-062,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-063,2026-09-30,cash_receipt,900.0,CUS-063,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-064,2026-09-30,cash_receipt,1800.0,CUS-064,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-065,2026-09-30,cash_receipt,900.0,CUS-065,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-066,2026-09-30,cash_receipt,900.0,CUS-066,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-067,2026-09-30,cash_receipt,900.0,CUS-067,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-068,2026-09-30,cash_receipt,419.4,CUS-068,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-069,2026-09-30,cash_receipt,900.0,CUS-069,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-070,2026-09-30,cash_receipt,450.0,CUS-070,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-071,2026-09-30,cash_receipt,900.0,CUS-071,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-072,2026-09-30,cash_receipt,1800.0,CUS-072,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-073,2026-09-30,cash_receipt,1800.0,CUS-073,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-074,2026-09-30,cash_receipt,450.0,CUS-074,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-075,2026-09-30,cash_receipt,900.0,CUS-075,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-076,2026-09-30,cash_receipt,450.0,CUS-076,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-077,2026-09-30,cash_receipt,900.0,CUS-077,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-078,2026-09-30,cash_receipt,900.0,CUS-078,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-079,2026-09-30,cash_receipt,1800.0,CUS-079,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-080,2026-09-30,cash_receipt,1800.0,CUS-080,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-081,2026-09-30,cash_receipt,450.0,CUS-081,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-082,2026-09-30,cash_receipt,450.0,CUS-082,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-083,2026-09-30,cash_receipt,900.0,CUS-083,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-084,2026-09-30,cash_receipt,450.0,CUS-084,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-085,2026-09-30,cash_receipt,900.0,CUS-085,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-086,2026-09-30,cash_receipt,900.0,CUS-086,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-087,2026-09-30,cash_receipt,900.0,CUS-087,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-088,2026-09-30,cash_receipt,900.0,CUS-088,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-089,2026-09-30,cash_receipt,439.11,CUS-089,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-090,2026-09-30,cash_receipt,873.87,CUS-090,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-091,2026-09-30,cash_receipt,430.4,CUS-091,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-092,2026-09-30,cash_receipt,856.45,CUS-092,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-093,2026-09-30,cash_receipt,1643.23,CUS-093,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-094,2026-09-30,cash_receipt,817.26,CUS-094,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-095,2026-09-30,cash_receipt,391.21,CUS-095,Current-month collection plus prior-month receivable settlement
+FIN-RCT-202609-CUS-096,2026-09-30,cash_receipt,799.84,CUS-096,Current-month collection plus prior-month receivable settlement
+FIN-COST-202609-HOSTING,2026-09-30,direct_cost,9708.66,,Hosting service cost recognized in the month
+FIN-PAY-202609-HOSTING,2026-09-30,cash_payment,9708.66,,Hosting service cost paid in the month
+FIN-COST-202609-DELIVERY,2026-09-30,direct_cost,26000.0,,Delivery service cost recognized in the month
+FIN-PAY-202609-DELIVERY,2026-09-30,cash_payment,26000.0,,Delivery service cost paid in the month
+FIN-PAY-202609-OPERATING,2026-09-30,cash_payment,48000.0,,Other payroll and operating cash payments; excluded from gross service margin
+FIN-CLOSE-202609,2026-09-30,closing_cash,119451.48,,Month-end bank statement balance; must reconcile to recorded cash movements

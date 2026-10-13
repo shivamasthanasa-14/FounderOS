@@ -1,0 +1,241 @@
+week_start,employee_id,function,allocated_hours,capacity_hours
+2026-07-06,CEO-01,Management,30.4,40
+2026-07-06,OPS-01,Management,27.3,40
+2026-07-06,FIN-01,Management,26.9,40
+2026-07-06,SAL-01,Sales,28.9,40
+2026-07-06,SAL-02,Sales,31.1,40
+2026-07-06,SAL-03,Sales,27.8,40
+2026-07-06,CS-01,Customer Success,30.2,40
+2026-07-06,CS-02,Customer Success,32.2,40
+2026-07-06,CS-03,Customer Success,30.2,40
+2026-07-06,SUP-01,Customer Success,31.9,40
+2026-07-06,SUP-02,Customer Success,31.0,40
+2026-07-06,PM-01,Product,27.1,40
+2026-07-06,PD-01,Product,27.0,40
+2026-07-06,ENG-01,Engineering,31.0,40
+2026-07-06,ENG-02,Engineering,32.3,40
+2026-07-06,ENG-03,Engineering,29.9,40
+2026-07-06,ENG-04,Engineering,29.7,40
+2026-07-06,ENG-05,Engineering,31.9,40
+2026-07-06,ENG-06,Engineering,29.3,40
+2026-07-06,ENG-07,Engineering,30.7,40
+2026-07-13,CEO-01,Management,27.6,40
+2026-07-13,OPS-01,Management,30.1,40
+2026-07-13,FIN-01,Management,27.1,40
+2026-07-13,SAL-01,Sales,31.0,40
+2026-07-13,SAL-02,Sales,31.8,40
+2026-07-13,SAL-03,Sales,31.7,40
+2026-07-13,CS-01,Customer Success,35.4,40
+2026-07-13,CS-02,Customer Success,29.9,40
+2026-07-13,CS-03,Customer Success,29.7,40
+2026-07-13,SUP-01,Customer Success,30.6,40
+2026-07-13,SUP-02,Customer Success,32.7,40
+2026-07-13,PM-01,Product,26.8,40
+2026-07-13,PD-01,Product,28.8,40
+2026-07-13,ENG-01,Engineering,31.1,40
+2026-07-13,ENG-02,Engineering,32.6,40
+2026-07-13,ENG-03,Engineering,30.5,40
+2026-07-13,ENG-04,Engineering,33.8,40
+2026-07-13,ENG-05,Engineering,31.8,40
+2026-07-13,ENG-06,Engineering,28.6,40
+2026-07-13,ENG-07,Engineering,30.2,40
+2026-07-20,CEO-01,Management,29.6,40
+2026-07-20,OPS-01,Management,27.7,40
+2026-07-20,FIN-01,Management,27.3,40
+2026-07-20,SAL-01,Sales,27.8,40
+2026-07-20,SAL-02,Sales,26.1,40
+2026-07-20,SAL-03,Sales,32.6,40
+2026-07-20,CS-01,Customer Success,31.5,40
+2026-07-20,CS-02,Customer Success,33.1,40
+2026-07-20,CS-03,Customer Success,31.1,40
+2026-07-20,SUP-01,Customer Success,31.5,40
+2026-07-20,SUP-02,Customer Success,34.3,40
+2026-07-20,PM-01,Product,28.0,40
+2026-07-20,PD-01,Product,27.5,40
+2026-07-20,ENG-01,Engineering,26.2,40
+2026-07-20,ENG-02,Engineering,30.4,40
+2026-07-20,ENG-03,Engineering,29.2,40
+2026-07-20,ENG-04,Engineering,31.3,40
+2026-07-20,ENG-05,Engineering,29.4,40
+2026-07-20,ENG-06,Engineering,32.0,40
+2026-07-20,ENG-07,Engineering,31.8,40
+2026-07-27,CEO-01,Management,27.3,40
+2026-07-27,OPS-01,Management,30.4,40
+2026-07-27,FIN-01,Management,29.8,40
+2026-07-27,SAL-01,Sales,31.0,40
+2026-07-27,SAL-02,Sales,32.4,40
+2026-07-27,SAL-03,Sales,34.4,40
+2026-07-27,CS-01,Customer Success,33.3,40
+2026-07-27,CS-02,Customer Success,32.8,40
+2026-07-27,CS-03,Customer Success,28.9,40
+2026-07-27,SUP-01,Customer Success,32.9,40
+2026-07-27,SUP-02,Customer Success,33.6,40
+2026-07-27,PM-01,Product,28.4,40
+2026-07-27,PD-01,Product,29.3,40
+2026-07-27,ENG-01,Engineering,31.8,40
+2026-07-27,ENG-02,Engineering,28.4,40
+2026-07-27,ENG-03,Engineering,31.3,40
+2026-07-27,ENG-04,Engineering,30.4,40
+2026-07-27,ENG-05,Engineering,28.6,40
+2026-07-27,ENG-06,Engineering,30.5,40
+2026-07-27,ENG-07,Engineering,33.4,40
+2026-08-03,CEO-01,Management,26.0,40
+2026-08-03,OPS-01,Management,29.4,40
+2026-08-03,FIN-01,Management,28.5,40
+2026-08-03,SAL-01,Sales,25.6,40
+2026-08-03,SAL-02,Sales,29.4,40
+2026-08-03,SAL-03,Sales,32.9,40
+2026-08-03,CS-01,Customer Success,29.2,40
+2026-08-03,CS-02,Customer Success,29.0,40
+2026-08-03,CS-03,Customer Success,31.8,40
+2026-08-03,SUP-01,Customer Success,30.5,40
+2026-08-03,SUP-02,Customer Success,31.6,40
+2026-08-03,PM-01,Product,26.6,40
+2026-08-03,PD-01,Product,27.1,40
+2026-08-03,ENG-01,Engineering,31.1,40
+2026-08-03,ENG-02,Engineering,29.4,40
+2026-08-03,ENG-03,Engineering,32.7,40
+2026-08-03,ENG-04,Engineering,27.7,40
+2026-08-03,ENG-05,Engineering,31.8,40
+2026-08-03,ENG-06,Engineering,28.1,40
+2026-08-03,ENG-07,Engineering,30.2,40
+2026-08-10,CEO-01,Management,27.3,40
+2026-08-10,OPS-01,Management,24.7,40
+2026-08-10,FIN-01,Management,29.8,40
+2026-08-10,SAL-01,Sales,29.1,40
+2026-08-10,SAL-02,Sales,29.6,40
+2026-08-10,SAL-03,Sales,32.0,40
+2026-08-10,CS-01,Customer Success,33.5,40
+2026-08-10,CS-02,Customer Success,36.4,40
+2026-08-10,CS-03,Customer Success,31.1,40
+2026-08-10,SUP-01,Customer Success,29.0,40
+2026-08-10,SUP-02,Customer Success,32.7,40
+2026-08-10,PM-01,Product,25.3,40
+2026-08-10,PD-01,Product,29.6,40
+2026-08-10,ENG-01,Engineering,30.2,40
+2026-08-10,ENG-02,Engineering,31.9,40
+2026-08-10,ENG-03,Engineering,29.3,40
+2026-08-10,ENG-04,Engineering,29.6,40
+2026-08-10,ENG-05,Engineering,32.5,40
+2026-08-10,ENG-06,Engineering,30.9,40
+2026-08-10,ENG-07,Engineering,31.8,40
+2026-08-17,CEO-01,Management,29.2,40
+2026-08-17,OPS-01,Management,28.6,40
+2026-08-17,FIN-01,Management,30.2,40
+2026-08-17,SAL-01,Sales,29.1,40
+2026-08-17,SAL-02,Sales,29.1,40
+2026-08-17,SAL-03,Sales,32.2,40
+2026-08-17,CS-01,Customer Success,32.2,40
+2026-08-17,CS-02,Customer Success,31.8,40
+2026-08-17,CS-03,Customer Success,32.2,40
+2026-08-17,SUP-01,Customer Success,31.1,40
+2026-08-17,SUP-02,Customer Success,28.4,40
+2026-08-17,PM-01,Product,29.1,40
+2026-08-17,PD-01,Product,28.6,40
+2026-08-17,ENG-01,Engineering,28.4,40
+2026-08-17,ENG-02,Engineering,30.7,40
+2026-08-17,ENG-03,Engineering,31.1,40
+2026-08-17,ENG-04,Engineering,29.8,40
+2026-08-17,ENG-05,Engineering,33.3,40
+2026-08-17,ENG-06,Engineering,28.1,40
+2026-08-17,ENG-07,Engineering,32.4,40
+2026-08-24,CEO-01,Management,26.8,40
+2026-08-24,OPS-01,Management,28.8,40
+2026-08-24,FIN-01,Management,29.3,40
+2026-08-24,SAL-01,Sales,30.8,40
+2026-08-24,SAL-02,Sales,30.4,40
+2026-08-24,SAL-03,Sales,28.3,40
+2026-08-24,CS-01,Customer Success,28.8,40
+2026-08-24,CS-02,Customer Success,33.3,40
+2026-08-24,CS-03,Customer Success,29.9,40
+2026-08-24,SUP-01,Customer Success,30.1,40
+2026-08-24,SUP-02,Customer Success,32.3,40
+2026-08-24,PM-01,Product,26.5,40
+2026-08-24,PD-01,Product,28.5,40
+2026-08-24,ENG-01,Engineering,29.2,40
+2026-08-24,ENG-02,Engineering,31.1,40
+2026-08-24,ENG-03,Engineering,28.0,40
+2026-08-24,ENG-04,Engineering,28.5,40
+2026-08-24,ENG-05,Engineering,28.2,40
+2026-08-24,ENG-06,Engineering,29.9,40
+2026-08-24,ENG-07,Engineering,27.8,40
+2026-08-31,CEO-01,Management,28.8,40
+2026-08-31,OPS-01,Management,25.7,40
+2026-08-31,FIN-01,Management,27.7,40
+2026-08-31,SAL-01,Sales,29.1,40
+2026-08-31,SAL-02,Sales,32.9,40
+2026-08-31,SAL-03,Sales,30.1,40
+2026-08-31,CS-01,Customer Success,29.1,40
+2026-08-31,CS-02,Customer Success,31.4,40
+2026-08-31,CS-03,Customer Success,30.6,40
+2026-08-31,SUP-01,Customer Success,26.9,40
+2026-08-31,SUP-02,Customer Success,29.8,40
+2026-08-31,PM-01,Product,28.2,40
+2026-08-31,PD-01,Product,29.6,40
+2026-08-31,ENG-01,Engineering,33.2,40
+2026-08-31,ENG-02,Engineering,32.0,40
+2026-08-31,ENG-03,Engineering,30.2,40
+2026-08-31,ENG-04,Engineering,33.1,40
+2026-08-31,ENG-05,Engineering,35.1,40
+2026-08-31,ENG-06,Engineering,29.7,40
+2026-08-31,ENG-07,Engineering,30.1,40
+2026-09-07,CEO-01,Management,26.8,40
+2026-09-07,OPS-01,Management,27.2,40
+2026-09-07,FIN-01,Management,27.3,40
+2026-09-07,SAL-01,Sales,34.7,40
+2026-09-07,SAL-02,Sales,28.5,40
+2026-09-07,SAL-03,Sales,28.4,40
+2026-09-07,CS-01,Customer Success,39.3,40
+2026-09-07,CS-02,Customer Success,37.4,40
+2026-09-07,CS-03,Customer Success,38.4,40
+2026-09-07,SUP-01,Customer Success,34.4,40
+2026-09-07,SUP-02,Customer Success,39.0,40
+2026-09-07,PM-01,Product,30.9,40
+2026-09-07,PD-01,Product,30.3,40
+2026-09-07,ENG-01,Engineering,31.2,40
+2026-09-07,ENG-02,Engineering,29.9,40
+2026-09-07,ENG-03,Engineering,32.4,40
+2026-09-07,ENG-04,Engineering,33.6,40
+2026-09-07,ENG-05,Engineering,33.3,40
+2026-09-07,ENG-06,Engineering,30.7,40
+2026-09-07,ENG-07,Engineering,28.7,40
+2026-09-14,CEO-01,Management,27.3,40
+2026-09-14,OPS-01,Management,27.1,40
+2026-09-14,FIN-01,Management,28.1,40
+2026-09-14,SAL-01,Sales,29.0,40
+2026-09-14,SAL-02,Sales,30.0,40
+2026-09-14,SAL-03,Sales,32.2,40
+2026-09-14,CS-01,Customer Success,40.6,40
+2026-09-14,CS-02,Customer Success,38.5,40
+2026-09-14,CS-03,Customer Success,37.1,40
+2026-09-14,SUP-01,Customer Success,33.9,40
+2026-09-14,SUP-02,Customer Success,36.2,40
+2026-09-14,PM-01,Product,27.6,40
+2026-09-14,PD-01,Product,26.3,40
+2026-09-14,ENG-01,Engineering,30.8,40
+2026-09-14,ENG-02,Engineering,28.8,40
+2026-09-14,ENG-03,Engineering,26.9,40
+2026-09-14,ENG-04,Engineering,24.9,40
+2026-09-14,ENG-05,Engineering,27.0,40
+2026-09-14,ENG-06,Engineering,31.7,40
+2026-09-14,ENG-07,Engineering,30.8,40
+2026-09-21,CEO-01,Management,28.6,40
+2026-09-21,OPS-01,Management,25.8,40
+2026-09-21,FIN-01,Management,30.0,40
+2026-09-21,SAL-01,Sales,27.6,40
+2026-09-21,SAL-02,Sales,31.9,40
+2026-09-21,SAL-03,Sales,31.4,40
+2026-09-21,CS-01,Customer Success,37.2,40
+2026-09-21,CS-02,Customer Success,38.8,40
+2026-09-21,CS-03,Customer Success,38.0,40
+2026-09-21,SUP-01,Customer Success,38.7,40
+2026-09-21,SUP-02,Customer Success,40.5,40
+2026-09-21,PM-01,Product,29.0,40
+2026-09-21,PD-01,Product,28.6,40
+2026-09-21,ENG-01,Engineering,31.0,40
+2026-09-21,ENG-02,Engineering,30.6,40
+2026-09-21,ENG-03,Engineering,28.0,40
+2026-09-21,ENG-04,Engineering,32.5,40
+2026-09-21,ENG-05,Engineering,31.5,40
+2026-09-21,ENG-06,Engineering,30.2,40
+2026-09-21,ENG-07,Engineering,25.8,40

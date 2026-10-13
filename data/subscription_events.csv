@@ -1,0 +1,104 @@
+event_id,customer_id,event_date,event_type,mrr_before,mrr_after,reason
+SUB-0001,CUS-001,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0002,CUS-002,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0003,CUS-003,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0004,CUS-004,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0005,CUS-005,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0006,CUS-006,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0007,CUS-007,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0008,CUS-008,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0009,CUS-009,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0010,CUS-010,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0011,CUS-011,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0012,CUS-012,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0013,CUS-013,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0014,CUS-014,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0015,CUS-015,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0016,CUS-016,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0017,CUS-017,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0018,CUS-018,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0019,CUS-019,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0020,CUS-020,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0021,CUS-021,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0022,CUS-022,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0023,CUS-023,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0024,CUS-024,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0025,CUS-025,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0026,CUS-026,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0027,CUS-027,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0028,CUS-028,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0029,CUS-029,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0030,CUS-030,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0031,CUS-031,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0032,CUS-032,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0033,CUS-033,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0034,CUS-034,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0035,CUS-035,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0036,CUS-036,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0037,CUS-037,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0038,CUS-038,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0039,CUS-039,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0040,CUS-040,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0041,CUS-041,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0042,CUS-042,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0043,CUS-043,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0044,CUS-044,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0045,CUS-045,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0046,CUS-046,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0047,CUS-047,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0048,CUS-048,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0049,CUS-049,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0050,CUS-050,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0051,CUS-051,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0052,CUS-052,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0053,CUS-053,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0054,CUS-054,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0055,CUS-055,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0056,CUS-056,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0057,CUS-057,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0058,CUS-058,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0059,CUS-059,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0060,CUS-060,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0061,CUS-061,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0062,CUS-062,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0063,CUS-063,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0064,CUS-064,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0065,CUS-065,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0066,CUS-066,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0067,CUS-067,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0068,CUS-068,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0069,CUS-069,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0070,CUS-070,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0071,CUS-071,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0072,CUS-072,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0073,CUS-073,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0074,CUS-074,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0075,CUS-075,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0076,CUS-076,2026-07-05,opening,450,450.0,Opening subscription
+SUB-0077,CUS-077,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0078,CUS-078,2026-07-05,opening,900,900.0,Opening subscription
+SUB-0079,CUS-079,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0080,CUS-080,2026-07-05,opening,1800,1800.0,Opening subscription
+SUB-0081,CUS-081,2026-07-06,new,0,450.0,New customer contract
+SUB-0082,CUS-082,2026-07-07,new,0,450.0,New customer contract
+SUB-0083,CUS-083,2026-07-15,new,0,900.0,New customer contract
+SUB-0084,CUS-084,2026-07-16,new,0,450.0,New customer contract
+SUB-0085,CUS-085,2026-07-24,new,0,900.0,New customer contract
+SUB-0086,CUS-086,2026-07-20,new,0,900.0,New customer contract
+SUB-0087,CUS-087,2026-07-28,new,0,900.0,New customer contract
+SUB-0088,CUS-088,2026-07-29,new,0,900.0,New customer contract
+SUB-0089,CUS-089,2026-08-06,new,0,450.0,New customer contract
+SUB-0090,CUS-090,2026-08-07,new,0,900.0,New customer contract
+SUB-0091,CUS-091,2026-08-10,new,0,450.0,New customer contract
+SUB-0092,CUS-092,2026-08-11,new,0,900.0,New customer contract
+SUB-0093,CUS-093,2026-08-19,new,0,1800.0,New customer contract
+SUB-0094,CUS-094,2026-08-20,new,0,900.0,New customer contract
+SUB-0095,CUS-095,2026-08-28,new,0,450.0,New customer contract
+SUB-0096,CUS-096,2026-08-24,new,0,900.0,New customer contract
+SUB-0097,CUS-005,2026-07-29,expansion,450,607.5,Expansion event
+SUB-0098,CUS-016,2026-08-12,expansion,900,1125.0,Expansion event
+SUB-0099,CUS-024,2026-09-02,contraction,900,630.0,Contraction event
+SUB-0100,CUS-032,2026-09-09,churn,900,0.0,Churn event
+SUB-0101,CUS-045,2026-09-16,contraction,900,540.0,Contraction event
+SUB-0102,CUS-053,2026-09-23,churn,900,0.0,Churn event
+SUB-0103,CUS-068,2026-09-23,contraction,450,315.0,Contraction event
