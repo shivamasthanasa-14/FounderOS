@@ -44,3 +44,9 @@ Portfolio prototype, not a complete accounting system or a commercially deployed
 Local databases, custom uploads, reviewer workspaces, secrets, caches, logs, review archives, and development outputs are excluded from Git. A fresh checkout starts from synthetic demonstration records and recreates its own SQLite state. Existing local state is retained on disk.
 
 The Streamlit application needs a Python server and writable local storage; GitHub Pages cannot run it. Hosted SQLite files may be ephemeral, and this prototype has no production authentication or durable hosted storage configuration. Local Ollama requires a separately configured service and installed model; no model is bundled. Example environment variables are documentation only and are not automatically loaded from `.env.example`.
+
+## Streamlit Community Cloud readiness
+
+Deploy repository `shivamasthanasa-14/FounderOS`, branch `main`, entry point `app.py`, with Python 3.12. No secrets, system packages, local model, or API key are needed for the deterministic demonstration.
+
+Imports, actions, and weekly briefs now use a temporary directory unique to each Streamlit browser session. Navigation and reruns retain that session's edits; other visitors start independently from the canonical synthetic CSVs. Session state is temporary and must not be used as durable business storage. Existing desktop databases are preserved; set `FOUNDEROS_WORKSPACE_MODE=local` before local launch to reuse them. Do not use local mode for a public deployment. The optional AI adapters remain unchanged and their unavailable-provider fallback remains in place.

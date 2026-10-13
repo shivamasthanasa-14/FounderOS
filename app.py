@@ -13,6 +13,7 @@ from founderos.presentation import STATUS_LABELS, EVIDENCE_LABELS, readable_tabl
 from founderos.actions import ActionStore
 from founderos.workflows import MockNotificationReceiver, dispatch_event
 from founderos.config import ROOT
+from founderos.workspace import workspace_root
 from founderos.reporting import ReportingStore, REPORTS, prepare_frames
 from founderos.reporting_ui import reporting_section, comparison_controls, cards, explanations, import_history, account_investigation
 from founderos.periods import support_records, delivery_records, open_pipeline, metric_values
@@ -40,12 +41,12 @@ st.html("""<style>
 def canonical(): return load_data(DATA_DIR)
 def get_data():
     return reporting_store().load()
-def reporting_store(): return ReportingStore(ROOT / 'data' / 'reporting_workspace.db',DATA_DIR)
+def reporting_store(): return ReportingStore(workspace_root() / 'data' / 'reporting_workspace.db',DATA_DIR)
 def reset_data():
     reporting_store().restore(confirmed=True)
     st.session_state.pop('working_data',None)
     st.session_state.pop('upload_preview',None)
-def action_store(): return ActionStore(ROOT / "data" / "founderos_actions.db")
+def action_store(): return ActionStore(workspace_root() / "data" / "founderos_actions.db")
 def title(name, text):
     st.caption("RELAYOPS / WORKSPACE")
     st.title(name)
@@ -106,7 +107,7 @@ def navigate(section):
         if other!=section: st.session_state[NAV_KEYS[other]]=None
 
 with st.sidebar:
-    st.title('FounderOS'); st.caption('RelayOps Workspace'); st.divider()
+    st.title('FounderOS'); st.caption('RelayOps Workspace'); st.caption('Demo edits belong to this session and are not retained after it ends.' if workspace_root() != ROOT else 'Local workstation edits persist.'); st.divider()
     for section,routes in NAVIGATION.items():
         key=NAV_KEYS[section]
         if key not in st.session_state: st.session_state[key]=st.session_state.page if section!='Advanced tools' and st.session_state.page in routes else None
@@ -144,7 +145,7 @@ elif page=='Delivery & Capacity':
     business_views.projects(data,week,metric,reporting_store())
 elif page=='Weekly Business Brief':
     title('Weekly Business Brief','Prepare, edit and export a grounded management report for the selected week.')
-    business_views.brief_page(data,week,month,ROOT,action_store())
+    business_views.brief_page(data,week,month,workspace_root(),action_store())
 elif page=='Management Issues':
     title('Operational issue evidence','Inspect factual support and account-level relationships behind important issues.')
     business_views.issue_panel(data,week); account_investigation(data,week)
